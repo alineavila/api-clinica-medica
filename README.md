@@ -35,3 +35,4 @@ $ mvn spring-boot:run
 - Após isso a API estará disponível no endereço
 http://localhost:8080, endpoints:
 - /medicos
+- /pacientes
